@@ -1,0 +1,5 @@
+http://www.pjrc.com/teensy/td_libs_TimeAlarms.html
+http://arduinobasics.blogspot.gr/2011/06/arduino-uno-photocell-sensing-light.html
+http://blog.wellsb.com/post/5135881420/arduino-to-twitter-over-usb
+http://forum.arduino.cc/index.php?topic=52880.0
+http://playground.arduino.cc/Code/TwitterLibrary#Download
